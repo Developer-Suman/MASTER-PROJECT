@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|c:\\myworkspace\\cqrs\\master-project\\presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\master-project\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|c:\\myworkspace\\cqrs\\master-project\\presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\master-project\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\master-project\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\static\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\static\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +55,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T20:03:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WEB",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\WEB.csproj",
+              "RelativeDocumentMoniker": "WEB\\WEB.csproj",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\WEB.csproj",
+              "RelativeToolTip": "WEB\\WEB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-01T19:23:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB\\appsettings.json",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\appsettings.json",
+              "RelativeToolTip": "WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-01T19:18:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\Program.cs",
+              "RelativeDocumentMoniker": "WEB\\Program.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\Program.cs",
+              "RelativeToolTip": "WEB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T19:15:33.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Static\\Roles\\Role.cs",
+              "RelativeDocumentMoniker": "Application\\Static\\Roles\\Role.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Static\\Roles\\Role.cs",
+              "RelativeToolTip": "Application\\Static\\Roles\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T19:09:11.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Authentication\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Application\\Authentication\\IJwtProvider.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Authentication\\IJwtProvider.cs",
+              "RelativeToolTip": "Application\\Authentication\\IJwtProvider.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T18:35:57.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T18:00:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AssemblyReferences.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Presentation\\AssemblyReferences.cs",
               "RelativeDocumentMoniker": "Presentation\\AssemblyReferences.cs",
               "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Presentation\\AssemblyReferences.cs",
               "RelativeToolTip": "Presentation\\AssemblyReferences.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBoAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-01T17:33:06.01Z",
               "EditorCaption": ""
@@ -45,7 +164,7 @@
               "RelativeDocumentMoniker": "Infrastructure\\AssemblyReferences.cs",
               "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\AssemblyReferences.cs",
               "RelativeToolTip": "Infrastructure\\AssemblyReferences.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-01T17:30:46.041Z",
               "EditorCaption": ""
@@ -58,7 +177,7 @@
               "RelativeDocumentMoniker": "Application\\AssemblyReferences.cs",
               "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\AssemblyReferences.cs",
               "RelativeToolTip": "Application\\AssemblyReferences.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-01T17:28:45.455Z",
               "EditorCaption": ""

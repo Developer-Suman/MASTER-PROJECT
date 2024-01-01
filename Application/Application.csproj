@@ -8,9 +8,17 @@
 
   <ItemGroup>
     <Folder Include="Abstraction\" />
-    <Folder Include="Authentication\" />
     <Folder Include="Static\Cache\" />
-    <Folder Include="Static\Roles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>

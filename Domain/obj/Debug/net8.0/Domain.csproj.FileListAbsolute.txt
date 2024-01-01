@@ -1,0 +1,13 @@
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\bin\Debug\net8.0\Domain.dll
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\bin\Debug\net8.0\Domain.pdb
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.dll
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\Domain.pdb
+C:\MyWorkSpace\CQRS\MASTER-PROJECT\Domain\obj\Debug\net8.0\ref\Domain.dll
