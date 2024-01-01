@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|c:\\myworkspace\\cqrs\\master-project\\presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyReferences.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Presentation\\AssemblyReferences.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyReferences.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Presentation\\AssemblyReferences.cs",
+              "RelativeToolTip": "Presentation\\AssemblyReferences.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T17:33:06.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyReferences.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\AssemblyReferences.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AssemblyReferences.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\AssemblyReferences.cs",
+              "RelativeToolTip": "Infrastructure\\AssemblyReferences.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T17:30:46.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyReferences.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\AssemblyReferences.cs",
+              "RelativeDocumentMoniker": "Application\\AssemblyReferences.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\AssemblyReferences.cs",
+              "RelativeToolTip": "Application\\AssemblyReferences.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T17:28:45.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
