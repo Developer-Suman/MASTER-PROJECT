@@ -1,4 +1,4 @@
-﻿using Domain.IRepositories;
+﻿using Domain.Abstractions;
 using Microsoft.Extensions.Caching.Memory;
 using System;
 using System.Collections.Generic;

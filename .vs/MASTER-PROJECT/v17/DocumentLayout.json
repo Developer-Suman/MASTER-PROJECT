@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Migrations\\20240102191840_Test Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20240102191840_Test Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\master-project\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Migrations\\20240102191703_dasdsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20240102191703_dasdsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|c:\\myworkspace\\cqrs\\master-project\\presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\irepositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\irepositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\static\\cache\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\static\\cache\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\abstractions\\imemorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\imemorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\cache\\memorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\cache\\memorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\migrations\\20240102191840_test migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240102191840_test migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\master-project\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\master-project\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -31,32 +55,16 @@
       "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\cache\\memorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\cache\\memorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\irepositories\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\irepositories\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\irepositories\\imemorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\irepositories\\imemorycacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|c:\\myworkspace\\cqrs\\master-project\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0592D535-BC0F-4B5C-8366-E36180F38D49}|WEB\\WEB.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|c:\\myworkspace\\cqrs\\master-project\\presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A4EB5FE-D846-419E-AB7B-C7AAACBB8743}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E95E732B-92A1-416A-889F-DD23EF07BA4D}|Domain\\Domain.csproj|c:\\myworkspace\\cqrs\\master-project\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,8 +75,12 @@
       "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\static\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|c:\\myworkspace\\cqrs\\master-project\\application\\abstraction\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06F69C7-1E9C-4BA7-AC1A-A06C530FEED1}|Application\\Application.csproj|solutionrelative:application\\abstraction\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|c:\\myworkspace\\cqrs\\master-project\\infrastructure\\migrations\\20240102191703_dasdsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCD938C-BCDB-4577-88DD-F1F574E1ECA9}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240102191703_dasdsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,11 +90,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T19:20:54.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\IRepositories\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "Domain\\IRepositories\\IAuthenticationRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T19:16:37.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CacheKeys.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Static\\Cache\\CacheKeys.cs",
+              "RelativeDocumentMoniker": "Application\\Static\\Cache\\CacheKeys.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Static\\Cache\\CacheKeys.cs",
+              "RelativeToolTip": "Application\\Static\\Cache\\CacheKeys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T19:14:59.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20240102191840_Test Migration.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Migrations\\20240102191840_Test Migration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240102191840_Test Migration.cs",
@@ -90,12 +139,11 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240102191840_Test Migration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-02T19:18:40.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-02T19:18:40.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "20240102191703_dasdsa.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Migrations\\20240102191703_dasdsa.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240102191703_dasdsa.cs",
@@ -103,8 +151,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240102191703_dasdsa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-02T19:17:03.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-02T19:17:03.884Z"
             },
             {
               "$type": "Document",
@@ -114,14 +161,13 @@
               "RelativeDocumentMoniker": "Infrastructure\\Cache\\MemoryCacheRepository.cs",
               "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Cache\\MemoryCacheRepository.cs",
               "RelativeToolTip": "Infrastructure\\Cache\\MemoryCacheRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwCQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-02T18:49:30.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-02T18:49:30.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -129,51 +175,47 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-02T18:47:44.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-02T18:47:44.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Result.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\Result.cs",
-              "RelativeDocumentMoniker": "Domain\\IRepositories\\Result.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\Result.cs",
-              "RelativeToolTip": "Domain\\IRepositories\\Result.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwCcAAABCAAAA",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Abstractions\\Result.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\Result.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Abstractions\\Result.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\Result.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-02T18:38:27.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-02T18:38:27.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Domain\\IRepositories\\IUnitOfWork.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\IUnitOfWork.cs",
-              "RelativeToolTip": "Domain\\IRepositories\\IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-02T18:37:39.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-02T18:37:39.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "IMemoryCacheRepository.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\IMemoryCacheRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\IRepositories\\IMemoryCacheRepository.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\IRepositories\\IMemoryCacheRepository.cs",
-              "RelativeToolTip": "Domain\\IRepositories\\IMemoryCacheRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Abstractions\\IMemoryCacheRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\IMemoryCacheRepository.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Abstractions\\IMemoryCacheRepository.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\IMemoryCacheRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-02T18:35:32.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-02T18:35:32.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -181,12 +223,11 @@
               "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-01T20:03:58.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-01T20:03:58.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "WEB.csproj",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\WEB.csproj",
               "RelativeDocumentMoniker": "WEB\\WEB.csproj",
@@ -198,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\appsettings.json",
               "RelativeDocumentMoniker": "WEB\\appsettings.json",
@@ -206,12 +247,11 @@
               "RelativeToolTip": "WEB\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-01-01T19:18:54.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-01T19:18:54.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\WEB\\Program.cs",
               "RelativeDocumentMoniker": "WEB\\Program.cs",
@@ -219,12 +259,11 @@
               "RelativeToolTip": "WEB\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-01T19:15:33.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-01T19:15:33.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Static\\Roles\\Role.cs",
               "RelativeDocumentMoniker": "Application\\Static\\Roles\\Role.cs",
@@ -236,19 +275,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IJwtProvider.cs",
-              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Authentication\\IJwtProvider.cs",
-              "RelativeDocumentMoniker": "Application\\Authentication\\IJwtProvider.cs",
-              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Authentication\\IJwtProvider.cs",
-              "RelativeToolTip": "Application\\Authentication\\IJwtProvider.cs",
+              "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Abstraction\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\IJwtProvider.cs",
+              "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\Abstraction\\IJwtProvider.cs",
+              "RelativeToolTip": "Application\\Abstraction\\IJwtProvider.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-01T18:35:57.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Domain\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
@@ -260,32 +299,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "AssemblyReferences.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Presentation\\AssemblyReferences.cs",
               "RelativeDocumentMoniker": "Presentation\\AssemblyReferences.cs",
               "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Presentation\\AssemblyReferences.cs",
               "RelativeToolTip": "Presentation\\AssemblyReferences.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBoAAAA3AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-01T17:33:06.01Z"
+              "WhenOpened": "2024-01-01T17:33:06.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AssemblyReferences.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\AssemblyReferences.cs",
               "RelativeDocumentMoniker": "Infrastructure\\AssemblyReferences.cs",
               "ToolTip": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Infrastructure\\AssemblyReferences.cs",
               "RelativeToolTip": "Infrastructure\\AssemblyReferences.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDkAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-01T17:30:46.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AssemblyReferences.cs",
               "DocumentMoniker": "C:\\MyWorkSpace\\CQRS\\MASTER-PROJECT\\Application\\AssemblyReferences.cs",
               "RelativeDocumentMoniker": "Application\\AssemblyReferences.cs",
@@ -293,8 +333,7 @@
               "RelativeToolTip": "Application\\AssemblyReferences.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-01T17:28:45.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-01T17:28:45.455Z"
             }
           ]
         }

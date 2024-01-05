@@ -1,4 +1,4 @@
-﻿using Domain.IRepositories;
+﻿using Domain.Abstractions;
 using Infrastructure.Data;
 using System;
 using System.Collections.Generic;
