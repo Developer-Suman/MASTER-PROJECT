@@ -1,10 +1,11 @@
 ﻿using Application.Authentication;
+using Domain.Abstractions;
 using Domain.Entities;
-using Domain.IRepositories;
 using Infrastructure.Cache;
 using Infrastructure.Data;
 using Infrastructure.JWT;
 using Infrastructure.Repositories;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -54,6 +55,7 @@ namespace Infrastructure
 
             services.AddMemoryCache();
             services.AddScoped<IMemoryCacheRepository, MemoryCacheRepository>();
+            services.AddScoped<IAuthenticationService, AuthenticationService>();
 
 
             return services;

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.IRepositories
+namespace Domain.Abstractions
 {
     public interface IUnitOfWork
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.IRepositories
+namespace Domain.Abstractions
 {
     public class Result<T>
     {
@@ -17,7 +17,7 @@ namespace Domain.IRepositories
             IsSuccess = isSuccess;
             Errors = errors;
             Data = data;
-            
+
         }
 
         public static Result<T> Success(T data)
