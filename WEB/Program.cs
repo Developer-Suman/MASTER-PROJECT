@@ -1,27 +1,32 @@
 using Application;
 using Infrastructure;
+using Infrastructure.JWT;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Presentation;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen();
 
 ConfigurationManager configuration = builder.Configuration;
+
 builder.Services
     .AddApplication()
     .AddPresentation()
     .AddInfrastructure(configuration);
 
-var app = builder.Build();
-
-
+builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddCors();
 
+var app = builder.Build();
 
+//using (var scope = app.Services.CreateScope())
+//{
+//    var dataSeeder = scope.ServiceProvider.GetRequiredService<DataSeeder>();
+//    await dataSeeder.Seed();
+//}
 
-
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -29,11 +34,13 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.AddEndPoint();
+
+app.UseCors();
+
 app.UseAuthentication();
+
 app.UseAuthorization();
 
+app.AddEndPoint();
 
 app.Run();
-
-

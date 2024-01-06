@@ -1,6 +1,7 @@
 ﻿using Application.Authentication;
 using Domain.Abstractions;
 using Domain.Entities;
+using Domain.IRepositories;
 using Infrastructure.Cache;
 using Infrastructure.Data;
 using Infrastructure.JWT;
@@ -49,13 +50,13 @@ namespace Infrastructure
                                 });
 
             services.AddAuthorization();
-
+            services.AddScoped<IAuthenticationRepository, AuthenticationRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IJwtProvider, JwtProvider>();
 
             services.AddMemoryCache();
             services.AddScoped<IMemoryCacheRepository, MemoryCacheRepository>();
-            services.AddScoped<IAuthenticationService, AuthenticationService>();
+            
 
 
             return services;
