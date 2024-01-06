@@ -58,7 +58,7 @@ namespace Infrastructure.Repositories
             return await _userManager.GetRolesAsync(username);
         }
 
-        public async Task UpdateUser(ApplicationUser user)
+        public async Task UpdateUserAsync(ApplicationUser user)
         {
             await _userManager.UpdateAsync(user);
         }

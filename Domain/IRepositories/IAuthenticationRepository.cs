@@ -15,6 +15,6 @@ namespace Domain.IRepositories
         Task<ApplicationUser> FindByEmailAsync(string email);
         Task<bool> CheckPasswordAsync(ApplicationUser username, string password);
         Task<IdentityResult> CreateAsync(ApplicationUser user, string password);
-        Task UpdateUser(ApplicationUser user);
+        Task UpdateUserAsync(ApplicationUser user);
     }
 }
