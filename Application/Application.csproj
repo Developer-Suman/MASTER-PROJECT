@@ -7,9 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="User\Queries\GetById\**" />
+    <EmbeddedResource Remove="User\Queries\GetById\**" />
+    <None Remove="User\Queries\GetById\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Authentication\Queries\" />
     <Folder Include="User\Commands\" />
-    <Folder Include="User\Queries\GetById\" />
   </ItemGroup>
 
   <ItemGroup>
