@@ -54,6 +54,7 @@ namespace Infrastructure
             services.AddScoped<IAuthenticationRepository, AuthenticationRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IJwtProvider, JwtProvider>();
+            services.AddScoped<IUserRepository, UserRepository>();
 
             services.AddMemoryCache();
             services.AddScoped<IMemoryCacheRepository, MemoryCacheRepository>();
