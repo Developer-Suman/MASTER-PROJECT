@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.DependencyInjection;
 using Presentation.Authentication;
+using Presentation.Users;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,6 +29,7 @@ namespace Presentation
         public static IEndpointRouteBuilder AddEndPoint(this IEndpointRouteBuilder builder)
         {
             builder.MapAuthEndPoints();
+            builder.MapUserEndPoints();
             return builder;                                                                                        
         }
     }

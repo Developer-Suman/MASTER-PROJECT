@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace Application.User.Queries.GetUserById
 {
-    internal class GetUserByIdResponse
-    {
-    }
+    public record GetUserByIdResponse(string Id, string username, string email, string phone);
 }
